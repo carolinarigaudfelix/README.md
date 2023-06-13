@@ -6,15 +6,6 @@ Full-Stack Developer Student | Principal Language Python
 - Languages: C, HTML, CSS, JavaScript, Python, Django.
 - I'm Currently learning about Python and Web.
 
-
-<div>
-  <a href="https://github.com/carolinarigaudfelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinarigaudfelix&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinarigaudfelix&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
