@@ -1,9 +1,9 @@
 # I'm Carolina Felix ☕
 
 
-Full-Stack Developer Student | Principal Language Python
+Full-Stack Developer Student | Principal Language Java
 
-- Languages: C, HTML, CSS, JavaScript, Python, Django.
+- Languages: C, HTML, CSS, JavaScript, Python, Django, Java.
 - I'm Currently learning about Python and Web.
 
 <div style="display: inline_block"><br>
