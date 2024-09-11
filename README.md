@@ -4,7 +4,7 @@
 Full-Stack Developer Student | Principal Language Java
 
 - Languages: C, HTML, CSS, JavaScript, Python, Django, Java.
-- I'm Currently learning about Python and Web.
+- I'm Currently learning about Java and Web.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
